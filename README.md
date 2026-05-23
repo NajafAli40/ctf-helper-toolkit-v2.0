@@ -82,23 +82,7 @@ python3 ctf_helper_v2.py
 ## 📸 Terminal Preview
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ██████╗████████╗███████╗    ██╗  ██╗███████╗██╗     ██████╗       ║
-║  ...                                                                 ║
-║         T  O  O  L  K  I  T                                         ║
-║  ✦   Created by  Najaf Ali    ✦                                     ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  SELECT A MODULE                                                  │
-  ├──────────────────────────────────────────────────────────────────┤
-  │  [1] ⌥  Encoding / Decoding    Base64 · Hex · Caesar · URL      │
-  │  [2] #  Hashing                MD5 · SHA family · Identifier     │
-  │  [3] ⊕  Crypto Helpers         XOR · Frequency Analysis          │
-  │  [4] ◈  Steganography          EXIF · LSB · Magic Bytes          │
-  │  [5] ⚙  Misc Utilities         Morse · Bit Ops · Base Convert    │
-  └──────────────────────────────────────────────────────────────────┘
-```
+<img width="917" height="610" alt="image" src="https://github.com/user-attachments/assets/75dfc205-cb3b-4988-b4f8-de242ab10ebc" />
 
 ---
 
