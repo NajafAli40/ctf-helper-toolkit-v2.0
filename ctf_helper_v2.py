@@ -487,7 +487,7 @@ def about():
     lines=[
         ("",C.R),("  CTF HELPER TOOLKIT  v2.0",C.FG_GOLD+C.B),("",C.R),
         ("  Created by",C.FG_PALE),("  Najaf Ali",C.FG_NEON+C.B),("",C.R),
-        ("  Cybersecurity Student",C.BWHT),("",C.R),
+        ("  R3ktSh@de",C.BWHT),("",C.R),
         ("  "+"─"*42,C.FG_DIM),("",C.R),
         ("  Modules:",C.BWHT+C.B),
         ("  ⌥  Encoding / Decoding          7 tools",C.FG_NEON),
