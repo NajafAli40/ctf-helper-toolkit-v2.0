@@ -53,7 +53,7 @@ def banner():
     row = " "*pad + sub + " "*(W - pad - len(sub))
     print(c("║", C.FG_NEON, C.B) + c(row, C.BMAG, C.B) + c("║", C.FG_NEON, C.B))
     print(c("║" + " "*W + "║", C.FG_NEON, C.B))
-    cr = "✦   Created by  Najaf Ali  ·  Cybersecurity Student   ✦"
+    cr = "✦   Created by  Najaf Ali  ✦"
     pad = (W - len(cr)) // 2
     row = " "*pad + cr + " "*(W - pad - len(cr))
     print(c("║", C.FG_NEON, C.B) + c(row, C.FG_GOLD, C.B) + c("║", C.FG_NEON, C.B))
