@@ -1,6 +1,6 @@
 # 🛡️ CTF Helper Toolkit v2.0
 
-> **Created by Najaf Ali — Cybersecurity Student**
+> **Created by Najaf Ali **
 
 A powerful, fully-featured CTF (Capture The Flag) helper tool for the terminal.
 Beautiful neon terminal UI, pure Python — no external dependencies required.
@@ -50,10 +50,10 @@ Designed for **Kali Linux** and any Python 3.6+ system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ctf-helper-toolkit.git
+git clone https://github.com/NajafAli40/ctf-helper-toolkit.git
 
 # Navigate into the folder
-cd ctf-helper-toolkit
+cd ctf-helper-toolki-v2.0
 
 # Run the tool
 python3 ctf_helper_v2.py
@@ -86,7 +86,7 @@ python3 ctf_helper_v2.py
 ║  ██████╗████████╗███████╗    ██╗  ██╗███████╗██╗     ██████╗       ║
 ║  ...                                                                 ║
 ║         T  O  O  L  K  I  T                                         ║
-║  ✦   Created by  Najaf Ali  ·  Cybersecurity Student   ✦            ║
+║  ✦   Created by  Najaf Ali    ✦                                     ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
   ┌──────────────────────────────────────────────────────────────────┐
