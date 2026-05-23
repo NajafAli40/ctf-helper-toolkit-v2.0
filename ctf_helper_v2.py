@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 """
 CTF Helper Toolkit v2.0
-Created by Najaf Ali — Cybersecurity Student
-"""
+Created by Najaf Ali """
 
 import os, sys, base64, hashlib, re, urllib.parse, time
 from collections import Counter
@@ -27,7 +26,7 @@ class C:
 
 def c(text,*codes): return "".join(codes)+str(text)+C.R
 
-W = 70  # terminal width
+W = 110  # terminal width
 
 # ── BANNER ──────────────────────────────────────────────────────────
 BANNER_LINES = [
@@ -93,7 +92,7 @@ def main_menu():
         tag_s  = c(f" [{tag}]", C.FG_DIM)
         inner  = f"{num_s}{icon_s}{lbl_s}{desc_s}{tag_s}"
         # strip ANSI to measure real length
-        raw    = f" [{num}] {icon} {label:<22}{desc} [{tag}]"
+        raw    = f" [{num}] {icon} {label:<26}{desc} [{tag}]"
         pad    = W - 2 - len(raw)
         print(c("  │", C.FG_MID) + inner + " "*max(pad,0) + c("│", C.FG_MID))
         print(c("  │" + " "*(W-2) + "│", C.FG_MID))
