@@ -50,7 +50,7 @@ Designed for **Kali Linux** and any Python 3.6+ system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/NajafAli40/ctf-helper-toolkit.git
+git clone https://github.com/NajafAli40/ctf-helper-toolkit-v2.0.git
 
 # Navigate into the folder
 cd ctf-helper-toolki-v2.0
