@@ -53,7 +53,7 @@ Designed for **Kali Linux** and any Python 3.6+ system.
 git clone https://github.com/NajafAli40/ctf-helper-toolkit-v2.0.git
 
 # Navigate into the folder
-cd ctf-helper-toolki-v2.0
+cd ctf-helper-toolkit-v2.0
 
 # Run the tool
 python3 ctf_helper_v2.py
