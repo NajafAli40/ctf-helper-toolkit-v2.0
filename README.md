@@ -81,10 +81,9 @@ python3 ctf_helper_v2.py
 
 ## 📸 Terminal Preview
 
-```
+
 <img width="917" height="610" alt="image" src="https://github.com/user-attachments/assets/75dfc205-cb3b-4988-b4f8-de242ab10ebc" />
 
----
 
 ## 🗂️ Project Structure
 
